@@ -2,4 +2,4 @@
 
 Prueba de uso de github
 
-[Enlace a un sitio](htttp://www.google.com)
+[Enlace a un sitio](http://www.google.com)
